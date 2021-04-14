@@ -23,3 +23,4 @@ Serial.print((int)humidity);
 Serial.print("%H\n\n");
 delay(2000);
 }
+![photo_2021-04-14_21-02-24](https://user-images.githubusercontent.com/80913347/114737774-f8b78800-9d64-11eb-9711-f0479c35ef07.jpg)
